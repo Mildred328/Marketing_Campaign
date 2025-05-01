@@ -66,6 +66,7 @@ Refine targeting for Men 25–34 and Women 35–44 segments
 
 Deliverables
 File	Description
-Eda_marketing_clean.csv: Cleaned and enriched dataset
+
 Marketing_Campaign_EDA_Report.pdf:	Full analytical report with visuals
+
 Eda_campaign_analysis.ipynb:	Jupyter Notebook with complete code
